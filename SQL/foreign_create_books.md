@@ -89,4 +89,3 @@ INSERT INTO livre(reference,type,titre,id_auteur,id_rayon) VALUES ("274298447X",
 INSERT INTO livre(reference,type,titre,id_auteur,id_rayon) VALUES ("2212124651","CMS","Drupal",5,5);
 INSERT INTO livre(reference,type,titre,id_auteur,id_rayon) VALUES ("2212124945","Framework","Symfony 1.2",6,6);
 INSERT INTO livre(reference,type,titre,id_auteur,id_rayon) VALUES ("2212119321","E-commerce","Réussir son site e-commerce",7,7);
-
