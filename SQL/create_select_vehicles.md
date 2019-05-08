@@ -19,3 +19,7 @@ Réfléchissez bien aux types de données à utiliser ainsi qu'aux noms de colon
 5. Affichez les marques de véhicules sortis après 2010
 
 6. Affichez les marques des véhicules ayant moins de 5 portes
+
+
+
+
