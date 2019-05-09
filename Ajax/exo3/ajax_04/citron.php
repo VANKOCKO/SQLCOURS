@@ -1,2 +1,0 @@
-<h1>Citron</h1>
-<p>Le <b>citron</b> est un <a href="https://fr.wikipedia.org/wiki/Agrume" title="Agrume">agrume</a>, fruit du <a href="https://fr.wikipedia.org/wiki/Citronnier" title="Citronnier">citronnier</a>, dont le jus a un pH de 2,5.
