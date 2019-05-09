@@ -1,0 +1,2 @@
+<h1>Orange</h1>
+<p>L’<b>orange</b> est un <a href="https://fr.wikipedia.org/wiki/Agrume" title="Agrume">agrume</a>, <a href="https://fr.wikipedia.org/wiki/Fruit_(botanique)" title="Fruit (botanique)">fruit</a> des <a href="https://fr.wikipedia.org/wiki/Oranger" title="Oranger">orangers</a>, des arbres de différentes espèces de la famille des <a href="https://fr.wikipedia.org/wiki/Rutaceae" title="Rutaceae">Rutacées</a> ou d'hybrides de ceux-ci.

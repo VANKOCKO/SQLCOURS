@@ -17,6 +17,10 @@
      * 4. Affichez en gras les pays les plus peuplés (plus de 100 millions d'habitants)
      */
 
+
+    
+     
+
     // Connexion à MySQL avec PDO
     
 	$strConnection = 'mysql:host=localhost;dbname=world';
@@ -27,7 +31,7 @@
      *    Liste des pays enregister 
      */
 
-     
+
 
     
         $query ="SELECT name,continent,Population,GovernmentForm FROM country ORDER BY Population DESC";
@@ -89,4 +93,28 @@
          <script src="" async defer></script>
      </body>
  </html>
+
+ <?php 
+
+
+     /*
+    https://drive.google.com/open?id=0B2yTJoJ2FQP7UDF5UmpfYm4xb2s
+    https://drive.google.com/open?id=0B2yTJoJ2FQP7VDFSZDZvVGpyaTQ
+
+    Ou se placera la clé étrangère ?
+
+    Créer la base, avec les attributs suivants pour chaque table :
+    Page : http://pastebin.com/W2kiZEAJ
+    Image : http://pastebin.com/0mZTnAVA
+
+    Le nom de la base sera dev_blog
+
+    (Conservez les noms et les valeurs par défaut, je vous
+    enverrai des données pour remplir cette base)
+*/
+
+
+
+?>
+
                       
